@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealproject2024\\lyradev_ue54\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\iaimassisttargetinterface.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealproject2024\\lyradev_ue54\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealproject2024\\lyradev_ue54\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootercoreruntime\\definitions.shootercoreruntime.h",
+            "d:\\unrealproject2024\\lyradev_ue54\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\input\\iaimassisttargetinterface.h",
+            "d:\\unrealproject2024\\lyradev_ue54\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\input\\aimassistinputmodifier.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "d:\\ue_5.4\\engine\\plugins\\runtime\\gameplayabilities\\source\\gameplayabilities\\public\\scalablefloat.h",
+            "d:\\ue_5.4\\engine\\plugins\\runtime\\dataregistry\\source\\dataregistry\\public\\dataregistryid.h",
+            "d:\\ue_5.4\\engine\\plugins\\runtime\\dataregistry\\intermediate\\build\\win64\\unrealeditor\\inc\\dataregistry\\uht\\dataregistryid.generated.h",
+            "d:\\ue_5.4\\engine\\plugins\\runtime\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\scalablefloat.generated.h",
+            "d:\\unrealproject2024\\lyradev_ue54\\source\\lyragame\\input\\lyrainputmodifiers.h",
+            "d:\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "d:\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "d:\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "d:\\unrealproject2024\\lyradev_ue54\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\lyrainputmodifiers.generated.h",
+            "d:\\unrealproject2024\\lyradev_ue54\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\aimassistinputmodifier.generated.h",
+            "d:\\unrealproject2024\\lyradev_ue54\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\iaimassisttargetinterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

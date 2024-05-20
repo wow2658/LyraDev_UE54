@@ -37,8 +37,6 @@
 /FUNCTIONPADMIN:6
 "D:\UnrealProject2024\LyraDev_UE54\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "D:\UnrealProject2024\LyraDev_UE54\Plugins\GameFeatures\ShooterTests\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterTestsRuntime\Module.ShooterTestsRuntime.cpp.obj"
-"D:\UnrealProject2024\LyraDev_UE54\Plugins\GameFeatures\ShooterTests\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterTestsRuntime\ShooterTestsDevicePropertyTester.cpp.obj"
-"D:\UnrealProject2024\LyraDev_UE54\Plugins\GameFeatures\ShooterTests\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterTestsRuntime\ShooterTestsRuntimeModule.cpp.obj"
 "D:\UnrealProject2024\LyraDev_UE54\Plugins\GameFeatures\ShooterTests\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterTestsRuntime\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
