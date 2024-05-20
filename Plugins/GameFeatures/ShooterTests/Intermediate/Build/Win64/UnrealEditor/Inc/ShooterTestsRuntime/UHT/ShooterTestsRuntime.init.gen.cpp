@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeShooterTestsRuntime_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xDEB359FC,
+				0xC61C23AA,
 				0xBBAE1ADB,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeShooterTestsRuntime_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_ShooterTestsRuntime.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_ShooterTestsRuntime(Z_Construct_UPackage__Script_ShooterTestsRuntime, TEXT("/Script/ShooterTestsRuntime"), Z_Registration_Info_UPackage__Script_ShooterTestsRuntime, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xDEB359FC, 0xBBAE1ADB));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_ShooterTestsRuntime(Z_Construct_UPackage__Script_ShooterTestsRuntime, TEXT("/Script/ShooterTestsRuntime"), Z_Registration_Info_UPackage__Script_ShooterTestsRuntime, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xC61C23AA, 0xBBAE1ADB));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
