@@ -6,6 +6,7 @@
         "PCH": "d:\\unrealproject2024\\lyradev_ue54\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
             "d:\\unrealproject2024\\lyradev_ue54\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\topdownarenaruntime\\definitions.topdownarenaruntime.h",
+            "d:\\unrealproject2024\\lyradev_ue54\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\unrealeditor\\inc\\topdownarenaruntime\\uht\\topdownarenaruntime.init.gen.cpp",
             "d:\\unrealproject2024\\lyradev_ue54\\plugins\\gamefeatures\\topdownarena\\source\\topdownarenaruntime\\private\\lyracameramode_topdownarenacamera.cpp",
             "d:\\unrealproject2024\\lyradev_ue54\\plugins\\gamefeatures\\topdownarena\\source\\topdownarenaruntime\\public\\lyracameramode_topdownarenacamera.h",
             "d:\\unrealproject2024\\lyradev_ue54\\source\\lyragame\\camera\\lyracameramode.h",

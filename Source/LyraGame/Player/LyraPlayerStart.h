@@ -35,6 +35,7 @@ public:
 	ELyraPlayerStartLocationOccupancy GetLocationOccupancy(AController* const ControllerPawnToFit) const;
 
 	/** Did this player start get claimed by a controller already? */
+	UFUNCTION(BlueprintCallable)
 	bool IsClaimed() const;
 
 	/** If this PlayerStart was not claimed, claim it for ClaimingController */
